@@ -1,0 +1,5 @@
+package com.srk.entity;
+
+public enum Genre {
+	FICTION, THRILLER, HISTORICAL, DRAMA, COMPUTERS, COMEDY, MOTIVATION, FANTASY
+}
